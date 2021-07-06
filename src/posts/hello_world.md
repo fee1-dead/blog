@@ -1,6 +1,8 @@
-%%
-# Hello, World!
+title = Hello, World!
+author = Deadbeef
+published = 2021-07-05
 
+%%
 This will be my blog now. Inspired by the [`dtolnay` crate],
 I have created a crate myself just like his, but automated using a build script.
 
